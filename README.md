@@ -1,1 +1,3 @@
 # ImageCompressor
+
+> Minify the Image
